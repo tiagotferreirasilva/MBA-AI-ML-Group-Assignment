@@ -1,7 +1,7 @@
 # 💎 Diamond Price Prediction - Machine Learning Project
 
 ## 👥 A Team Full of Diamonds 
-- **Anyndia**
+- **Anindya**
 - **Jairo**
 - **Peter**
 - **Stefano**

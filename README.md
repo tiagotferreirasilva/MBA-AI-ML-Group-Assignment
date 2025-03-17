@@ -15,6 +15,9 @@ By leveraging **data science techniques**, our goal is to create a **robust and 
 - **Sellers** seeking competitive pricing.
 - **Enthusiasts** interested in diamond valuation.
 
+🔗 **Live Demo**: [Diamond Price Diviner](https://diamond-price-diviner.lovable.app)  
+💻 **GitHub Repository**: [MBA-AI-ML-Group-Assignment](https://github.com/tiagotferreirasilva/MBA-AI-ML-Group-Assignment)
+
 ## 📊 Dataset
 We are using a **publicly available dataset** that includes various features influencing diamond prices:
 
